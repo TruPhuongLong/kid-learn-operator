@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/LowPolyGround/DemoScene.unity
+  isLoaded: 1
+  isActive: 1
